@@ -1,3 +1,3 @@
 # React Infinite Scroll
 
-1)Custom Hooks implementations
+1)Custom Hooks implementation
